@@ -6,3 +6,6 @@
 g++ main.cpp -o main && ./main
 
 결과는 📟터미널에서 확인하세요.
+
+모든 파일 실행:
+g++ *.cpp -o main && ./main
